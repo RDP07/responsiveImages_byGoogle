@@ -50,4 +50,16 @@ footer #social a {
 	font-size: 28px;
 	margin-right: .5em;
 	margin-left:  .5em;
+	font-family: 'zocial', sans-serif;
+	text-shadow: 3px 3px 3px #aaa;
+	width: 2em;
+	color: black;
+}
+
+[class*="zocial-"]:before {
+  color: black;
+  display: inline-block;
+  font-family: 'zocial', sans-serif;
+  text-shadow: 3px 3px 3px #aaa;
+  width: 2em;
 }
