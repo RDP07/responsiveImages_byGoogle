@@ -45,8 +45,9 @@ footer {
 	text-align: center;
 }
 
-footer ul li {
+footer #social a {
 	display: inline-block;
 	font-size: 28px;
-	margin-right: calc((33% - 6px) / 6);
+	margin-right: .5em;
+	margin-left:  .5em;
 }
