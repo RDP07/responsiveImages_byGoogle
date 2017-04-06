@@ -21,7 +21,7 @@ I've left some boilerplate below for you.
 
 
 body {
-	width: 900px;
+	width: 800px;
 	margin-right: auto;
 	margin-left: auto;
 
@@ -39,4 +39,14 @@ h1 {
 img {
 	max-width: 100%
 
+}
+
+footer {
+	text-align: center;
+}
+
+footer ul li {
+	display: inline-block;
+	font-size: 28px;
+	margin-right: calc((33% - 6px) / 6);
 }
