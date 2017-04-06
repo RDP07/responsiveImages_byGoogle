@@ -19,12 +19,12 @@ I've left some boilerplate below for you.
   font-family: 'zocial', sans-serif;
 }
 
-
-body {
-	width: 800px;
-	margin-right: auto;
-	margin-left: auto;
-
+@media (min-width: 800px) {
+	body {
+		width: 800px;
+		margin-right: auto;
+		margin-left: auto;
+	}
 }
 
 article {
@@ -38,7 +38,6 @@ h1 {
 
 img {
 	max-width: 100%
-
 }
 
 footer {
