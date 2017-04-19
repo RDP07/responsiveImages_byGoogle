@@ -31,10 +31,13 @@ h1, h2 {
 	font-family: 'Playfair Display', serif;
 }
 
+h2, figcaption {
+	text-shadow: 2px 1px #000000; 
+}
+
 figcaption {
   	text-align: center;
   	font-family: 'Playfair Display', serif;
- 	text-shadow: 2px 1.5px #000000; 
 }
 
 img {
