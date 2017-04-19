@@ -24,12 +24,14 @@ I've left some boilerplate below for you.
 		width: 800px;
 		margin-right: auto;
 		margin-left: auto;
+		background:#6b6b6b;		
 	}
 }
 
 article {
 	max-width: 50em;
-
+	background: rgba(10, 0, 252, 0.75);
+	padding: 10px;
 }
 
 h1, h2 {
