@@ -31,6 +31,12 @@ h1, h2 {
 	font-family: 'Playfair Display', serif;
 }
 
+h5 {
+	text-align: center;
+	color: #000000;
+	text-shadow: 1px 1px rgba(255, 255, 255, 0.5);
+}
+
 h2, figcaption {
 	text-shadow: 2px 1px #000000; 
 }
