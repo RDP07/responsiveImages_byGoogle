@@ -1,17 +1,5 @@
-/*
-
-Your styles go here!
-
-Hint! You'll probably want to start by styling:
-  * <body>
-  * <article>
-  * <h1>
-  * <img>
-
-I've left some boilerplate below for you.
-
-*/
-
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Cormorant');
 @import url(http://weloveiconfonts.com/api/?family=zocial);
 
 /* zocial */
@@ -32,12 +20,13 @@ article {
 	max-width: 50em;
 	background: rgba(10, 0, 252, 0.75);
 	padding: 10px;
+	font-family: 'Cormorant', serif;
 }
 
 h1, h2 {
 	color: red;
 	text-align: center;
-	font-family: cursive;
+	font-family: 'Playfair Display', serif;
 }
 
 img {
