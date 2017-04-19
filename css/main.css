@@ -21,6 +21,8 @@ article {
 	background: rgba(10, 0, 252, 0.75);
 	padding: 10px;
 	font-family: 'Cormorant', serif;
+	font-weight: 500;
+	color: #FFFFFF;
 }
 
 h1, h2 {
